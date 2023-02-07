@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  25 NOV 2022 11:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  7 FEB 2023 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/guill/Documents/TFGs/memoria.tex
-(c:/Users/guill/Documents/TFGs/memoria.tex
+**"c:/Users/guill/Documents/TFG Proyecto/TFG---Inertial-System-1/TFGs/memoria.tex"
+(c:/Users/guill/Documents/TFG Proyecto/TFG---Inertial-System-1/TFGs/memoria.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (estilo.tex (C:\Program Files\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
@@ -346,7 +346,7 @@ Writing index file memoria.idx
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count298
 \l__pdf_internal_box=\box57
-) (c:\Users\guill\Documents\TFGs\build\memoria.aux
+) (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -434,7 +434,7 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count305
 Package hyperref Info: Link coloring OFF on input line 5.
- (c:\Users\guill\Documents\TFGs\build\memoria.out) (c:\Users\guill\Documents\TFGs\build\memoria.out)
+ (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.out) (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.out)
 \@outlinefile=\write4
 \openout4 = `memoria.out'.
 
@@ -584,7 +584,7 @@ LaTeX Warning: Hyper reference `acro:HRI' on page \es@scroman {v} undefined on i
 ) [5
 
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.toc
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -600,7 +600,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [6
 
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.lof
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -609,19 +609,19 @@ LaTeX Info: Redefining \% on input line 1.
 
  [7
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.locode)
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.locode)
 \tf@locode=\write7
 \openout7 = `memoria.locode'.
 
  [8
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.lomyequation)
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.lomyequation)
 \tf@lomyequation=\write8
 \openout8 = `memoria.lomyequation'.
 
  [9
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.lot
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -789,10 +789,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 ) [10
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.ind) (c:\Users\guill\Documents\TFGs\build\memoria.bbl) [11
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.ind) (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.bbl) [11
 
 
-] (c:\Users\guill\Documents\TFGs\build\memoria.aux
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -800,18 +800,18 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 43F457F6B622F34CFC26DA0993EB7FEE;2882.
+(rerunfilecheck)             Checksum: 48731110AB547FE5753146A0CC01283D;3012.
  ) 
 Here is how much of TeX's memory you used:
  15332 strings out of 475385
- 244252 string characters out of 2786721
- 813207 words of memory out of 3000000
+ 246077 string characters out of 2786721
+ 812207 words of memory out of 3000000
  36323 multiletter control sequences out of 15000+600000
  475742 words of font info for 51 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
- 77i,10n,80p,676b,1421s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 77i,10n,80p,715b,1421s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\guill\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feymr10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on c:\Users\guill\Documents\TFGs\build\memoria.pdf (21 pages, 1262615 bytes).
+Output written on "c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.pdf" (21 pages, 1262788 bytes).
 PDF statistics:
  408 PDF objects out of 1000 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
