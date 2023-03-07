@@ -727,10 +727,7 @@ INPUT portada\indice.tex
 INPUT .\portada\indice.tex
 INPUT portada\indice.tex
 INPUT .\portada\portada.tex
-INPUT .\portada\portada.tex
-INPUT .\portada\portada.tex
 INPUT portada\portada.tex
-INPUT .\portada\portada.tex
 INPUT .\portada\portada.tex
 INPUT portada\portada.tex
 INPUT .\figs\logo_urjc.jpg
