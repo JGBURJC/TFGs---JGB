@@ -7,19 +7,21 @@
 \contentsline {paragraph}{Referencias bibliográficas}{2}{paragraph*.12}%
 \contentsline {chapter}{\numberline {2}Objetivos}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Descripción del problema}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Requisitos}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Estudio de alternativas}{4}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Metodología empleada}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Plan de trabajo}{4}{section.2.4}%
 \contentsline {chapter}{\numberline {3}Plataforma de desarrollo}{5}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Descripción informática}{6}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Snippets}{6}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Verbatim}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Ecuaciones}{7}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Tablas o cuadros}{7}{section.4.4}%
+\contentsline {section}{\numberline {4.1}Especificación}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Diseño}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Implementación}{7}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Pruebas}{7}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Experimentos y validaciones}{8}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Problemas encontrados}{8}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Experimentos realizados}{8}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problemas encontrados}{8}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Soluciones y propuestas}{8}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Conclusiones}{9}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Posibles mejoras}{9}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Logros principales alcanzados}{9}{section.6.2}%
 \contentsline {chapter}{\numberline {7}Apéndices}{10}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Información de interés}{10}{section.7.1}%
 \contentsline {chapter}{Bibliograf\'{\i }a}{11}{appendix*.18}%

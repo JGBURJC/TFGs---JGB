@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.18)  4 MAR 2023 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.18)  8 MAR 2023 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,7 +439,7 @@ Package hyperref Info: Link coloring OFF on input line 5.
 Package newfloat Info: Trying Plan B...
 Package newfloat Info: `float' package detected.
  (portada/indice.tex (portada/portada.tex
-<figs/logo_urjc.jpg, id=95, 525.965pt x 210.7875pt>
+<figs/logo_urjc.jpg, id=103, 525.965pt x 210.7875pt>
 File: figs/logo_urjc.jpg Graphic file (type jpg)
 <use figs/logo_urjc.jpg>
 Package pdftex.def Info: figs/logo_urjc.jpg  used on input line 5.
@@ -448,7 +448,7 @@ Package pdftex.def Info: figs/logo_urjc.jpg  used on input line 5.
 
 
 {C:/Users/guill/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/logo_urjc.jpg>]) (portada/licencia.tex
-<figs/by-nc-sa.png, id=105, 97.0827pt x 33.9669pt>
+<figs/by-nc-sa.png, id=113, 97.0827pt x 33.9669pt>
 File: figs/by-nc-sa.png Graphic file (type png)
 <use figs/by-nc-sa.png>
 Package pdftex.def Info: figs/by-nc-sa.png  used on input line 8.
@@ -631,7 +631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-<figs/mpu-9250.png, id=205, 722.7pt x 542.025pt>
+<figs/mpu-9250.png, id=215, 722.7pt x 542.025pt>
 File: figs/mpu-9250.png Graphic file (type png)
 <use figs/mpu-9250.png>
 Package pdftex.def Info: figs/mpu-9250.png  used on input line 21.
@@ -679,12 +679,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-)
-Underfull \hbox (badness 4416) in paragraph at lines 25--23
-[]\OT1/cmr/m/n/12 Qu^^Se agenda has seguido. Si has ido manteniendo reuniones semanales,
- []
-
-(capitulos/capitulo3.tex [4
+) (capitulos/capitulo3.tex [4
 
 ]
 Cap\'{\i }tulo 3.
@@ -713,17 +708,17 @@ LaTeX Info: Redefining \% on input line 1.
  [7]
 Cap\'{\i }tulo 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
@@ -788,20 +783,20 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 0F2C5A420FCC42DE80EA3701ECD734D2;2998.
+(rerunfilecheck)             Checksum: 043E58A6EFF9F9EFDC2D4D0323F9DFFC;3486.
  ) 
 Here is how much of TeX's memory you used:
- 15325 strings out of 475389
- 247265 string characters out of 2786815
+ 15328 strings out of 475389
+ 247296 string characters out of 2786815
  812969 words of memory out of 3000000
- 36311 multiletter control sequences out of 15000+600000
+ 36312 multiletter control sequences out of 15000+600000
  475742 words of font info for 51 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
  77i,10n,80p,714b,1421s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/guill/AppData/Roaming/MiKTeX/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on "c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs2\build\memoria.pdf" (21 pages, 1269496 bytes).
+Output written on "c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs2\build\memoria.pdf" (21 pages, 1270846 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 200 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
