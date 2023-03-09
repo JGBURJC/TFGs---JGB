@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.18)  9 MAR 2023 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.18)  9 MAR 2023 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -379,17 +379,17 @@ LaTeX Info: Redefining \% on input line 5.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
-* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(14.22636pt, 759.6886pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=441.01773pt
-* \textheight=745.46222pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=27.31465pt
-* \topmargin=-126.94913pt
+* \textwidth=455.24411pt
+* \textheight=759.6886pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-75.73409pt
 * \headheight=12.0pt
-* \headsep=85.35826pt
+* \headsep=5.69046pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=54.2025pt
@@ -452,7 +452,7 @@ Package pdftex.def Info: figs/logo_urjc.jpg  used on input line 5.
 File: figs/by-nc-sa.png Graphic file (type png)
 <use figs/by-nc-sa.png>
 Package pdftex.def Info: figs/by-nc-sa.png  used on input line 8.
-(pdftex.def)             Requested size: 110.25443pt x 38.57701pt.
+(pdftex.def)             Requested size: 113.81102pt x 39.82144pt.
 ) (portada/agradecimientos.tex [2
 
 
@@ -486,10 +486,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-[3
+) (portada/resumen.tex [3
 
 
-]) (portada/resumen.tex [4]
+]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -504,71 +504,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-) (portada/acronimos.tex [5
+) (portada/acronimos.tex [4
 
 
 ]
 
-LaTeX Warning: Hyper reference `acro:URJC' on page \es@scroman {vi} undefined on input line 7.
+LaTeX Warning: Hyper reference `acro:URJC' on page \es@scroman {v} undefined on input line 7.
 
 
-LaTeX Warning: Hyper reference `acro:URJC' on page \es@scroman {vi} undefined on input line 7.
+LaTeX Warning: Hyper reference `acro:URJC' on page \es@scroman {v} undefined on input line 7.
 
 
-LaTeX Warning: Hyper reference `acro:IMU' on page \es@scroman {vi} undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:IMU' on page \es@scroman {v} undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:IMU' on page \es@scroman {vi} undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:IMU' on page \es@scroman {v} undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:AHRS' on page \es@scroman {vi} undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:AHRS' on page \es@scroman {v} undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:AHRS' on page \es@scroman {vi} undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:AHRS' on page \es@scroman {v} undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:LiDAR' on page \es@scroman {vi} undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:LiDAR' on page \es@scroman {v} undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:LiDAR' on page \es@scroman {vi} undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:LiDAR' on page \es@scroman {v} undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:Adafruit BNO055' on page \es@scroman {vi} undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:Adafruit BNO055' on page \es@scroman {v} undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:Adafruit BNO055' on page \es@scroman {vi} undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:Adafruit BNO055' on page \es@scroman {v} undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:Arduino' on page \es@scroman {vi} undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:Arduino' on page \es@scroman {v} undefined on input line 12.
 
 
-LaTeX Warning: Hyper reference `acro:Arduino' on page \es@scroman {vi} undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:Arduino' on page \es@scroman {v} undefined on input line 12.
 
 
-LaTeX Warning: Hyper reference `acro:Infrared Laser Sensor' on page \es@scroman {vi} undefined on input line 13.
+LaTeX Warning: Hyper reference `acro:Infrared Laser Sensor' on page \es@scroman {v} undefined on input line 13.
 
 
-LaTeX Warning: Hyper reference `acro:Infrared Laser Sensor' on page \es@scroman {vi} undefined on input line 13.
+LaTeX Warning: Hyper reference `acro:Infrared Laser Sensor' on page \es@scroman {v} undefined on input line 13.
 
 
-LaTeX Warning: Hyper reference `acro:IDII' on page \es@scroman {vi} undefined on input line 14.
+LaTeX Warning: Hyper reference `acro:IDII' on page \es@scroman {v} undefined on input line 14.
 
 
-LaTeX Warning: Hyper reference `acro:IDII' on page \es@scroman {vi} undefined on input line 14.
+LaTeX Warning: Hyper reference `acro:IDII' on page \es@scroman {v} undefined on input line 14.
 
 
-LaTeX Warning: Hyper reference `acro:Parte Hardware' on page \es@scroman {vi} undefined on input line 15.
+LaTeX Warning: Hyper reference `acro:Parte Hardware' on page \es@scroman {v} undefined on input line 15.
 
 
-LaTeX Warning: Hyper reference `acro:Parte Hardware' on page \es@scroman {vi} undefined on input line 15.
+LaTeX Warning: Hyper reference `acro:Parte Hardware' on page \es@scroman {v} undefined on input line 15.
 
 
-LaTeX Warning: Hyper reference `acro:Parte Software' on page \es@scroman {vi} undefined on input line 16.
+LaTeX Warning: Hyper reference `acro:Parte Software' on page \es@scroman {v} undefined on input line 16.
 
 
-LaTeX Warning: Hyper reference `acro:Parte Software' on page \es@scroman {vi} undefined on input line 16.
+LaTeX Warning: Hyper reference `acro:Parte Software' on page \es@scroman {v} undefined on input line 16.
 
-) [6
+) [5
 
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
@@ -584,7 +584,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `memoria.toc'.
 
- [7
+ [6
 
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lof
@@ -594,19 +594,19 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write6
 \openout6 = `memoria.lof'.
 
- [8
+ [7
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.locode)
 \tf@locode=\write7
 \openout7 = `memoria.locode'.
 
- [9
+ [8
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lomyequation)
 \tf@lomyequation=\write8
 \openout8 = `memoria.lomyequation'.
 
- [10
+ [9
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lot
 LaTeX Info: Redefining \. on input line 1.
@@ -615,7 +615,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write9
 \openout9 = `memoria.lot'.
 
- [11
+ [10
 
 ]) (capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
@@ -630,7 +630,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-<figs/mpu-9250.png, id=220, 722.7pt x 542.025pt>
+<figs/mpu-9250.png, id=216, 722.7pt x 542.025pt>
 File: figs/mpu-9250.png Graphic file (type png)
 <use figs/mpu-9250.png>
 Package pdftex.def Info: figs/mpu-9250.png  used on input line 21.
@@ -642,32 +642,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 27.
+
+Underfull \hbox (badness 1205) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/12 En lugar de tener secciones interminables, como la Secci^^Son []1.1[], div^^S^^Pdelas en
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 Cuando describas una colecci^^Son, usa \OT1/cmtt/m/n/12 itemize \OT1/cmr/m/n/12 para ^^S^^Ptems o \OT1/cmtt/m/n/12 enumerate \OT1/cmr/m/n/12 para
+ []
+
 [1
 
 
 
 ]
-Underfull \hbox (badness 4981) in paragraph at lines 53--54
-[] []\OT1/cmr/bx/n/12 Referencias bibliogr^^Saficas[] \OT1/cmr/m/n/12 Cita, sobre todo en este cap^^S^^Ptulo, referencias
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[]\OT1/cmr/m/n/12 Las referencias, con todo su contenido,
  []
 
-
-Underfull \hbox (badness 2189) in paragraph at lines 53--54
-\OT1/cmr/m/n/12 bibliogr^^Saficas que respalden tu argumento. Para citarlas basta con poner la
- []
-
-
-Underfull \hbox (badness 2409) in paragraph at lines 53--54
-\OT1/cmr/m/n/12 instrucci^^Son [][]\OT1/cmtt/m/n/12 \cite []\OT1/cmr/m/n/12 con el identificador de la cita. Por ejemplo: libros como
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 55--56
-[]\OT1/cmr/m/n/12 Las referencias, con todo su contenido, est^^San recogidas en el fichero
- []
-
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
 [2 <./figs/mpu-9250.png>]) (capitulos/capitulo2.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -682,7 +677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
 ]
 Cap\'{\i }tulo 3.
-<figs/arduino.png, id=265, 1445.4pt x 972.63374pt>
+<figs/arduino.png, id=261, 1445.4pt x 972.63374pt>
 File: figs/arduino.png Graphic file (type png)
 <use figs/arduino.png>
 Package pdftex.def Info: figs/arduino.png  used on input line 14.
@@ -692,29 +687,14 @@ Package pdftex.def Info: figs/arduino.png  used on input line 14.
  <./figs/arduino.png>]
 Cap\'{\i }tulo 4.
 Package hyperref Info: bookmark level for unknown code defaults to 0 on input line 23.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 3514) in paragraph at lines 49--50
-[]\OT1/cmr/m/n/12 Para mencionar identificadores usados en el c^^Sodigo ---como nombres de
- []
-
-
-Underfull \hbox (badness 7832) in paragraph at lines 49--50
-\OT1/cmr/m/n/12 funciones o variables--- en el texto, usa el entorno literal o verbatim
- []
-
 [6
 
 ]
 Package hyperref Info: bookmark level for unknown myequation defaults to 0 on input line 67.
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
- [7]) (capitulos/capitulo5.tex
+) (capitulos/capitulo5.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [8]
+ [7]
 Cap\'{\i }tulo 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -731,57 +711,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-) (capitulos/capitulo6.tex [9
+) (capitulos/capitulo6.tex [8
 
 ]
 Cap\'{\i }tulo 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 18--31
 
  []
 
-(capitulos/capitulo7.tex [10
+(capitulos/capitulo7.tex [9
 
 ]
 Cap\'{\i }tulo 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
+) [10
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-) [11
-
-] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind) (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl) [12
+] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind) (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl) [11
 
 
 ] (c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
@@ -792,20 +762,20 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 39AE660F04B2D59A11464580C3030EB0;3576.
+(rerunfilecheck)             Checksum: D6A970E0CCDB1D8B2D43E54F6B0C9B99;3576.
  ) 
 Here is how much of TeX's memory you used:
- 15336 strings out of 475389
- 247591 string characters out of 2786815
- 805965 words of memory out of 3000000
+ 15334 strings out of 475389
+ 247577 string characters out of 2786815
+ 812970 words of memory out of 3000000
  36317 multiletter control sequences out of 15000+600000
  475742 words of font info for 51 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
  77i,10n,80p,713b,1421s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/guill/AppData/Roaming/MiKTeX/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on "c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.pdf" (23 pages, 1367846 bytes).
+Output written on "c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.pdf" (21 pages, 1365702 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
  221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
