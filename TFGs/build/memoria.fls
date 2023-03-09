@@ -759,15 +759,15 @@ INPUT portada\agradecimientos.tex
 INPUT .\portada\agradecimientos.tex
 INPUT portada\agradecimientos.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\portada\resumen.tex
-INPUT portada\resumen.tex
-INPUT .\portada\resumen.tex
-INPUT portada\resumen.tex
-INPUT .\portada\acronimos.tex
-INPUT portada\acronimos.tex
-INPUT .\portada\acronimos.tex
-INPUT portada\acronimos.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT .\portada\resumen.tex
+INPUT portada\resumen.tex
+INPUT .\portada\resumen.tex
+INPUT portada\resumen.tex
+INPUT .\portada\acronimos.tex
+INPUT portada\acronimos.tex
+INPUT .\portada\acronimos.tex
+INPUT portada\acronimos.tex
 INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
 INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
 INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
@@ -827,6 +827,12 @@ INPUT capitulos\capitulo3.tex
 INPUT .\capitulos\capitulo3.tex
 INPUT .\capitulos\capitulo3.tex
 INPUT capitulos\capitulo3.tex
+INPUT .\figs\arduino.png
+INPUT figs\arduino.png
+INPUT .\figs\arduino.png
+INPUT .\figs\arduino.png
+INPUT .\figs\arduino.png
+INPUT .\figs\arduino.png
 INPUT .\capitulos\capitulo4.tex
 INPUT .\capitulos\capitulo4.tex
 INPUT .\capitulos\capitulo4.tex
