@@ -1,5 +1,4 @@
 # Plantilla LaTeX para la escritura del TFG o TFM
-## (CC-BY-NC-SA) Julio Vega
 
 El objetivo de esta **plantilla de LaTeX** es facilitar a los estudiantes la escritura de su trabajo de fin de grado (TFG) o de máster (TFM) en este sistema profesional de confección de documentos.
 
