@@ -1,7 +1,7 @@
-PWD c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs
+PWD c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs
 INPUT C:\Users\guill\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\memoria.tex
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.log
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\memoria.tex
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.log
 INPUT .\estilo.tex
 INPUT estilo.tex
 INPUT .\estilo.tex
@@ -675,7 +675,7 @@ INPUT C:\Users\guill\AppData\Roaming\MiKTeX\tex\latex\newfloat\newfloat.sty
 INPUT C:\Users\guill\AppData\Roaming\MiKTeX\tex\latex\newfloat\newfloat.sty
 INPUT C:\Users\guill\AppData\Roaming\MiKTeX\tex\latex\newfloat\newfloat.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.idx
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.idx
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -687,10 +687,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.aux
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.aux
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.aux
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -710,18 +710,18 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.pdf
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.pdf
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
 INPUT .\portada\indice.tex
 INPUT portada\indice.tex
 INPUT .\portada\indice.tex
@@ -768,9 +768,9 @@ INPUT portada\acronimos.tex
 INPUT .\portada\acronimos.tex
 INPUT portada\acronimos.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.toc
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.toc
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -779,23 +779,23 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.toc
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lof
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lof
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lof
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lof
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.locode
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.locode
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.locode
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.locode
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lomyequation
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lomyequation
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lomyequation
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lomyequation
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lot
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lot
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lot
-OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.lot
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.toc
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lof
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lof
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lof
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lof
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.locode
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.locode
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.locode
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.locode
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lomyequation
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lomyequation
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lomyequation
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lomyequation
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lot
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lot
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lot
+OUTPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.lot
 INPUT .\capitulos\capitulo1.tex
 INPUT .\capitulos\capitulo1.tex
 INPUT .\capitulos\capitulo1.tex
@@ -863,17 +863,17 @@ INPUT capitulos\capitulo7.tex
 INPUT .\capitulos\capitulo7.tex
 INPUT .\capitulos\capitulo7.tex
 INPUT capitulos\capitulo7.tex
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.ind
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.bbl
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.aux
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
-INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB-1\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.ind
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.ind
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.ind
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.ind
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.bbl
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.bbl
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.bbl
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.bbl
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.aux
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
+INPUT c:\Users\guill\Documents\Trabajos Fin de Grado\TFGs---JGB\TFGs\build\memoria.out
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
