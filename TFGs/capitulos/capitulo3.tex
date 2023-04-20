@@ -1,24 +1,107 @@
-\chapter{Plataforma de desarrollo}
+\chapter{Descripción informática}
 \label{cap:capitulo3}
 
 
-La herramienta que se ha utilizado para el desarrollo tanto hardware como software es Arduino. Arduino es una plataforma electrónica de código abierto basada en hardware y 
-software fáciles de usar. Las placas Arduino son capaces de leer entradas (la luz de un sensor, un dedo sobre un botón o un mensaje de Twitter) y convertirlas en salidas 
-(activar un motor, encender un LED, publicar algo en Internet). Puedes decirle a tu placa lo que tiene que hacer enviando una serie de instrucciones al 
-microcontrolador de la placa. Para ello se utiliza el lenguaje de programación Arduino (basado en Wiring) y el software Arduino (IDE), basado en Processing.
+Escribe aquí un párrafo explicando brevemente lo que vas a contar en este capítulo. En este capítulo (y quizás alguno más) es donde, por fin, describes detalladamente qué has hecho y qué experimentos has llevado a cabo para validar tus desarrollos (con el siguiente capítulo explico detalladamente esto).
 
-\vspace{1cm}
+\section{Especificación}
 
-\begin{figure} [h!]
-    \begin{center}
-      \includegraphics[width=8cm]{figs/arduino}
-    \end{center}
-    \caption{Logo de Arduino.}
-    \label{fig:arduino}
-  \end{figure}\
+Puede resultar interesante, para clarificar la descripción, mostrar fragmentos de código (o \textit{snippets}) ilustrativos. En el Código \ref{cod:codejemplo} vemos un ejemplo escrito en \texttt{C++}.
 
-  Arduino nació en el  IDII (Ivrea Interaction Design Institute) como una herramienta sencilla para la creación rápida de prototipos, dirigida a estudiantes sin conocimientos previos 
-  de electrónica y programación. Tan pronto como llegó a una comunidad más amplia, la placa Arduino empezó a cambiar para adaptarse a nuevas necesidades y retos, diferenciando 
-  su oferta de simples placas de 8 bits a productos para aplicaciones IoT, wearables, impresión 3D y entornos embebidos.
+\begin{code}[h]
+\begin{lstlisting}[language=C++]
+void Memory::hypothesizeParallelograms () {
+  for(it1 = this->controller->segmentMemory.begin(); it1++) {
+    squareFound = false; it2 = it1; it2++;
+    while ((it2 != this->controller->segmentMemory.end()) && (!squareFound)) {
+      if (geometry::haveACommonVertex((*it1),(*it2),&square)) {
+        dist1 = geometry::distanceBetweenPoints3D ((*it1).start, (*it1).end);
+        dist2 = geometry::distanceBetweenPoints3D ((*it2).start, (*it2).end);
+      }
+    // [...]
+\end{lstlisting}
+\caption[Función para buscar elementos 3D en la imagen]{Función para buscar elementos 3D en la imagen}
+\label{cod:codejemplo}
+\end{code}
 
-  
+En el Código \ref{cod:codejemplo2} vemos un ejemplo escrito en \texttt{Python}.
+
+\begin{code}[h]
+\begin{lstlisting}[language=Python]
+def mostrarValores():
+    print (w1.get(), w2.get())
+
+master = Tk()
+w1 = Scale(master, from_=0, to=42)
+w1.pack()
+w2 = Scale(master, from_=0, to=200, orient=HORIZONTAL)
+w2.pack()
+Button(master, text='Show', command=mostrarValores).pack()
+
+mainloop()
+\end{lstlisting}
+\caption[Cómo usar un Slider]{Cómo usar un Slider}
+\label{cod:codejemplo2}
+\end{code}
+
+\section{Diseño}
+
+Para mencionar identificadores usados en el código ---como nombres de funciones o variables--- en el texto, usa el entorno literal o verbatim \verb|hypothesizeParallelograms()|. También se puede usar este entorno para varias líneas, como se ve a continuación:
+
+\begin{verbatim}
+void Memory::hypothesizeParallelograms () {
+  // add your code here
+}
+\end{verbatim}
+
+\section{Implementación}
+
+Si necesitas insertar alguna ecuación, puedes hacerlo. Al igual que las figuras, no te olvides de referenciarlas. A continuación se exponen algunas ecuaciones de ejemplo: Ecuación \ref{ec:ec1} y Ecuación \ref{ec:ec2}.
+
+\begin{myequation}[h]
+\begin{equation}
+H = 1 - \frac{\sum_{i=0}^{N}\frac{(\frac{d_{j_s} + d_{j_e}}{2})}{N}}{M}
+\nonumber
+\label{ec:ec1}
+\end{equation}
+\caption[Ejemplo de ecuación con fracciones]{Ejemplo de ecuación con fracciones}
+\end{myequation} 
+
+\begin{myequation}[h]
+\begin{equation}
+v(entrada)= \left\{
+	\begin{array}{lcc}
+		0 & \mbox{if} & \epsilon_t < 0.1\\
+		K_p\cdot{(T_{t}-T)} & \mbox{if}& 0.1 \leq \epsilon_t < M_t\\
+		K_p \cdot M_t & \mbox{if}& M_t < \epsilon_t
+	\end{array}
+\right.
+\label{ec:ec2}
+\end{equation}
+\caption[Ejemplo de ecuación con array y letras y símbolos especiales]{Ejemplo de ecuación con array y letras y símbolos especiales}
+\end{myequation}
+
+\section{Pruebas}
+
+Si necesitas insertar una tabla, hazlo dígnamente usando las propias tablas de \LaTeX, no usando pantallazos e insertándolas como figuras... En el Cuadro \ref{cuadro:ejemplo} vemos un ejemplo.
+
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Parámetros} & \textbf{Valores} \\
+\hline
+Tipo de sensor & Sony IMX219PQ[7] CMOS 8-Mpx \\
+Tamaño del sensor & 3.674 x 2.760 mm (1/4" format) \\
+Número de pixels & 3280 x 2464 (active pixels) \\
+Tamaño de pixel & 1.12 x 1.12 um \\
+Lente & f=3.04 mm, f/2.0 \\
+Ángulo de visión & 62.2 x 48.8 degrees \\
+Lente SLR equivalente & 29 mm \\
+\hline
+\end{tabular}
+\caption{Parámetros intrínsecos de la cámara}
+\label{cuadro:ejemplo}
+\end{center}
+\end{table}
+
