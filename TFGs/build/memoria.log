@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  20 APR 2023 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  20 APR 2023 17:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -627,7 +627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<figs/mpu-9250.png, id=209, 722.7pt x 542.025pt>
+<figs/mpu-9250.png, id=199, 722.7pt x 542.025pt>
 File: figs/mpu-9250.png Graphic file (type png)
 <use figs/mpu-9250.png>
 Package pdftex.def Info: figs/mpu-9250.png  used on input line 19.
@@ -674,15 +674,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
 ]
 Cap\'{\i }tulo 3.
-Package hyperref Info: bookmark level for unknown code defaults to 0 on input line 23.
-[5
+
+LaTeX Warning: Reference `cod:codejemplo' on page 5 undefined on input line 9.
+
+
+LaTeX Warning: Reference `ec:ec1' on page 5 undefined on input line 15.
+
+
+LaTeX Warning: Reference `ec:ec2' on page 5 undefined on input line 15.
+
+) (capitulos/capitulo4.tex [5
 
 ]
-Package hyperref Info: bookmark level for unknown myequation defaults to 0 on input line 67.
-) (capitulos/capitulo4.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [6]
 Cap\'{\i }tulo 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -699,7 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-) (capitulos/capitulo5.tex [7
+) (capitulos/capitulo5.tex [6
 
 ]
 Cap\'{\i }tulo 5.
@@ -718,7 +721,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--29
 
  []
 
-(capitulos/capitulo6.tex [8
+(capitulos/capitulo6.tex [7
 
 ]
 Cap\'{\i }tulo 6.
@@ -737,9 +740,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-) [9
+) [8
 
-] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.ind) (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.bbl) [10
+] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.ind) (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.bbl) [9
 
 
 ] (c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.aux
@@ -750,20 +753,20 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 6CB6D695303EE3BEA6E821EF589DCB2A;3406.
+(rerunfilecheck)             Checksum: 9393D09DE6800276D0FC3D8B48E0E65A;3406.
  ) 
 Here is how much of TeX's memory you used:
- 15319 strings out of 475385
- 245933 string characters out of 2786721
- 813208 words of memory out of 3000000
- 36314 multiletter control sequences out of 15000+600000
- 475742 words of font info for 51 fonts, out of 8000000 for 9000
+ 14719 strings out of 475385
+ 240101 string characters out of 2786721
+ 778208 words of memory out of 3000000
+ 35744 multiletter control sequences out of 15000+600000
+ 475274 words of font info for 49 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
- 77i,10n,80p,950b,1421s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\guill\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feymr10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.pdf" (20 pages, 1260868 bytes).
+ 77i,8n,80p,950b,570s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\guill\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feymr10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.pdf" (19 pages, 1191608 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
  208 words of extra memory for PDF output out of 10000 (max. 10000000)
 
