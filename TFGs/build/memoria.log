@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  20 APR 2023 17:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  20 APR 2023 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -753,7 +753,7 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 9393D09DE6800276D0FC3D8B48E0E65A;3406.
+(rerunfilecheck)             Checksum: E26AFFD84167186274A990061EC97353;3457.
  ) 
 Here is how much of TeX's memory you used:
  14719 strings out of 475385
@@ -764,7 +764,7 @@ Here is how much of TeX's memory you used:
  1147 hyphenation exceptions out of 8191
  77i,8n,80p,950b,570s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\guill\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feymr10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.pdf" (19 pages, 1191608 bytes).
+Output written on "c:\Users\guill\Documents\TFG Proyecto\TFG---Inertial-System-1\TFGs\build\memoria.pdf" (19 pages, 1191681 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)

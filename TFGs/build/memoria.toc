@@ -21,6 +21,6 @@
 \contentsline {chapter}{\numberline {5}Conclusiones}{7}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Logros principales alcanzados}{7}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Trabajos futuros}{7}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Apéndices}{8}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Apéndices y anexos}{8}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Información de interés}{8}{section.6.1}%
 \contentsline {chapter}{Bibliograf\'{\i }a}{9}{appendix*.13}%
